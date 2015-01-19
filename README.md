@@ -1,6 +1,6 @@
-Szkielet prezentacji
+Code Carrots JavaScript - zajęcia pierwsze
 ====================
 
-Dostępny pod adresem: http://codecarrotsjs.github.io/prezentacja-pierwsza/
+Prezentacja dostępna pod adresem: http://codecarrotsjs.github.io/prezentacja-pierwsza/
 
 Aby zobaczyć notatki naciśnij "s" podczas prezentacji. Powinno otworzyć się dodatkowe okienko.
